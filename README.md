@@ -33,3 +33,6 @@ remote_ratio: The overall amount of work done remotely
 company_location: The country of the employer's main office or contracting branch
 
 company_size: The median number of people that worked for the company during the year
+
+
+
