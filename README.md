@@ -36,6 +36,7 @@ company_size: The median number of people that worked for the company during the
 
 # ####################################
 Students
+
 Saranya Rajasekhar Nair       
 Elvis Ramirez                 
 # ###################################
