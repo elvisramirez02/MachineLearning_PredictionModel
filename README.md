@@ -1,4 +1,4 @@
-# SLC-ML-PredictionModels
+# Machine Learning - Prediction Model
 About the Problem Statement
 
 The main objective of this analysis is to leverage the dataset, containing information such as work years, experience level, employment type, job title, salary details, employee residence, remote work ratio, company location, and company size, to create a machine learning model. Based on the provided data profiles, this model will be specifically developed to accurately predict salaries for different job positions. This study aims to provide precise insights into the current salary trajectories within the data science realm by examining the complex interconnections among various factors.
@@ -33,7 +33,5 @@ remote_ratio: The overall amount of work done remotely
 company_location: The country of the employer's main office or contracting branch
 
 company_size: The median number of people that worked for the company during the year
-
-https://github.com/elvisramirez02/SLC-ML-PredictionModels
 
 
